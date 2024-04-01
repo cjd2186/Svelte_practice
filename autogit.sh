@@ -8,6 +8,6 @@ git add .
 git commit -m "Auto commit $(date)"
 
 # Push changes to remote
-git push origin master
+git push -u origin 
 
 echo "Changes committed successfully!"
